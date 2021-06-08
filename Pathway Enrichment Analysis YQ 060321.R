@@ -6,7 +6,7 @@ setwd("/Volumes/GoogleDrive/Shared drives/Lab General Folder/Bioinformatics/LLC-
 
 #check what file I have under the directory
 dir()
-
+#this is a test
 #Using Significant-DEGs.csv
 gene<-read.csv(file="Differential_expression_analysis_table.csv")
 head(gene) #checking the gene list
